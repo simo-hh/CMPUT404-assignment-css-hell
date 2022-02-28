@@ -25,6 +25,11 @@ Part I Changes
 
 + Make a page number and put it on the left of each page in the third story
 
+References
+==========
+
+Styling images: https://www.w3schools.com/css/css3_images.asp
+
 License/Copyright
 =================
 
