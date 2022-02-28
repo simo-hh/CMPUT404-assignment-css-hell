@@ -1,0 +1,62 @@
+body {
+  background-color: LightCyan;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: DarkBlue;
+  border-width: 5px;
+  padding-left: 5px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.top {
+  text-align: center;
+}
+
+#picture {
+    text-align: center;
+		display: table-cell;
+		vertical-align: middle;
+		width:2500px;
+		height: 540px
+}
+
+.box {
+  background-color: LightCyan;
+  border: solid;
+  border-width: 3px;
+  border-color: DarkBlue;
+  margin: 0px 2px 15px 2px;
+  padding: 0px 17px 5px 17px;
+  border-radius: 25px;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.copyright {
+    margin-bottom: 5pt;
+}
+
+h1 {
+  font-size: 5em;
+  color: Blue;
+}
+h2 {
+  font-size: 2em;
+  color: Blue;
+}
+
+h3 {
+  font-size: 1.4em;
+  color: Blue;
+}
+
+h4 {
+  font-size: 1.3em;
+}
+
+p {
+  font-size: 1em;
+}
+
+li {
+    font-size: 1.2em;
+}

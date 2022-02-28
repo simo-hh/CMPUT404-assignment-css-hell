@@ -12,6 +12,19 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Part I Changes
+==============
+
++ Change the background color and font
+
++ Change the font size of header tags
+
++ Add borders for images and make them aesthetically pleasing
+
++ Center the header tags and images
+
++ Make a page number and put it on the left of each page in the third story
+
 License/Copyright
 =================
 
@@ -20,5 +33,3 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
-
-
