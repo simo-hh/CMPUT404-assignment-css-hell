@@ -17,13 +17,13 @@ Part I Changes
 
 + Change the background color and font
 
-+ Change the font size of header tags
++ Change the font size of header tags and paragraphs
 
 + Add borders for images and make them aesthetically pleasing
 
 + Center the header tags and images
 
-+ Make a page number and put it on the left of each page in the third story
++ Make page numbers and put them on the left of each page in the third story
 
 References
 ==========
